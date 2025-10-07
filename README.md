@@ -18,6 +18,7 @@ API REST pour l'application GCAFO Booking - Plateforme de réservation de servic
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/ton-username/gcafo-booking-api.git
+git clone https://github.com/numeriagroupbf-art
+/gcafo-booking-api.git
 cd gcafo-booking-api
 npm install
